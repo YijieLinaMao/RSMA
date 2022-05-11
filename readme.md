@@ -1,4 +1,4 @@
-This is a code package related to the following conference paper:
+This is a code package related to the following paper:
 
 Y. Mao, B. Clerckx and V. O. K. Li, "Rate-splitting multiple access for downlink communication systems: bridging, generalizing, and outperforming SDMA and NOMA." EURASIP Journal on Wireless Communications and Networking 2018.1 (2018): 133.
 
